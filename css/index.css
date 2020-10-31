@@ -1,0 +1,125 @@
+
+body,a,i{
+    text-decoration: none;
+    font-style: normal;
+    
+}
+#nav{
+    
+    height: 30px;
+    background-image: linear-gradient(#fafafa, #f8f8f8);
+    line-height: 30px;
+    border-bottom: 1px solid grey;
+    
+}
+#nav .nav_con{
+    width: 960px;
+    margin: 0px auto;
+}
+#nav .nav_con .top_l{
+    float: left;
+} 
+.navbar{
+    margin: 0 auto;
+    width: 1000px;    
+} 
+#logo_area{
+    margin: 0 auto;
+    width: 1000px;
+    height: 80px;
+} 
+#logo_area .logo {
+    float: left;
+    margin-top: 15px;
+}
+#logo_area .city {
+    width: 70px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 55px;
+    display: inline-block;
+    text-align: center;
+}
+
+#logo_area .input-group {
+    margin: 0px auto;
+    width: 275px;
+    height: 31px;
+    margin-top: -38px;
+    margin-left: 320px;
+}
+#logo_area .input-group .input-control{
+    width: 275px;
+}
+
+#logo_area .input-group .input-control .form-control {
+   float: none;
+  
+
+}
+#logo_area .btn1{
+    margin-top: -53px;
+    margin-left: 570px;
+    width: 117px;
+    height: 31px;
+    line-height: 31px;
+    text-align: center;
+    background: url("img/home_r4_c7_s1.jpg") no-repeat;
+
+}
+#main {
+    margin: 0px auto;
+    width: 1000px;
+    height: 5000px;
+}
+#postion{
+
+
+    margin-top: -20px;
+    font-size:11px;
+    height: 30px;
+    width: 200px;
+    margin-left: 10px;
+    line-height: 30px;
+    
+}
+#postion .pos_text{
+    float: left;
+}
+.cards{
+    width: 675px;
+    height: 145px;
+    border: 1px solid #DCDCDC;
+    background-color: #fefcfd;
+    margin-left: 0px !important;
+
+}
+.cards .col-md-4{
+    width: 100px;
+    margin-right: 20px;
+    margin-left:10px;
+    
+}
+#main .panel-group {
+    margin-top: 10px;
+    width: 333px;
+    
+}
+#main .panel_g_1{
+    float: left;
+}
+#main .panel-group .panel{
+    margin-top:  0px !important;
+}
+#main .panel_g_2{
+    margin-left: 10px;
+    float: left;
+}
+
+#main .panel_g_3{
+    margin-top: -145px;
+    margin-right: 40px;
+    width: 269px !important;
+    float: right;
+
+}
